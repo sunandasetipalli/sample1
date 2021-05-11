@@ -5,3 +5,7 @@ class B
 {
 system.out.println(" hi this is sunanda");
 }
+class c 
+{
+  system.out.println(" commit change ");
+}
