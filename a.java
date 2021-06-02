@@ -9,3 +9,7 @@ class c
 {
   system.out.println(" commit change ");
 }
+class d
+{
+  system.out.println(" edit program")
+  }
